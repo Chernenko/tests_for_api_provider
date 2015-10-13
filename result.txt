@@ -1,0 +1,9 @@
+Test case: Create new User PASS , Created  
+Test case: Create new User PASS , 422 
+Test case: Create new User PASS , Created  
+Test case: Create new User PASS , 422 
+Test case: Create new User PASS , Created  
+Test case: Create new User PASS , 422 
+Test case: Update user PASS , 204 
+Test case: Delete User - PASS, user has been successfully deleted. 
+Test case: Delete User - PASS, Internal Server Error  
